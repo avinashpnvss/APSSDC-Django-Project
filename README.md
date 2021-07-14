@@ -1,1 +1,1 @@
-# APSSDC-Django-Project
+# Hospital Management System
