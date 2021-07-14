@@ -1,0 +1,7 @@
+Admin username: admin
+Admin password: admin@1234
+
+To run the project,
+1. open command prompt in the project workspace
+2. run the command 'python manage.py makemigrations' and 'python manage.py migrate'
+3. to run the project run 'python manage.py runserver'
